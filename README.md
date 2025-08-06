@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, PowerBI
 
 ## Education
-- Msc. Data Science | The University of Salford (_Jane 2024 - July 2025_)								       		
+- Msc. Data Science | The University of Salford (_Jan 2024 - July 2025_)								       		
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**

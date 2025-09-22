@@ -28,19 +28,20 @@
 **Receptionist @ Premier Inn, Aberdeen (_Aug 2022 - Jun 2023_)**
 
 ●	Handled reservations via phone and email and ensured accurate data entry into the system.
+
 ●	Welcomed guests upon their arrival, efficiently managed check-ins and check-outs, and addressed any guest inquiries or concerns promptly and professionally.
 
 **Business Development Director @ Cookie Media, Myanmar (_July 2018 - Sep 2021_)**
 
 ●	Led the end-to-end development of an automated data pipeline and Power BI dashboard to monitor key performance indicators, including Monthly Active Users (MAU), Daily Active Users (DAU) and monthly sign-up rates  
 
-●	Implemented ETL workflows using SQL and Python to ingest, transform, and model data from diverse sources, enabling daily dashboard updates and interactive visualizations.
+●	Implemented ETL workflows using SQL and Python to ingest, transform, and model data from diverse sources, enabling daily dashboard updates and interactive visualizations
 
 ●	Collaborated with marketing and business strategy teams to align dashboard KPIs with strategic goals, driving a 40% increase in DAU and MAU, and significantly boosting monthly signup rates.
 
 **Regional Sales Manager @ Canal+, Myanmar (_Mar 2017 - June 2018_)**
 
-•	Conducted monthly revenue analysis to identify sales trends and performance gaps; delivered actionable recommendations that boosted regional sales, resulting in over 40% growth in set-top box sales within the first 6 months and earned the Best Regional Sales Manager of the Year award.
+●	Conducted monthly revenue analysis to identify sales trends and performance gaps; delivered actionable recommendations that boosted regional sales, resulting in over 40% growth in set-top box sales within the first 6 months and earned the Best Regional Sales Manager of the Year award.
 
 **Senior Distribution Development Executive @ Nestle, Myanmar (_Dec 2015 - Feb 2017_)**
 

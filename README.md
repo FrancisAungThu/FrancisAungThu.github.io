@@ -7,22 +7,26 @@
 
 ## Projects
 ### Healthcare Appointment System Implementation Using T-SQL and SQL Server
-[Github Repositary](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+●	Built a relational database system for managing hospital appointments. Designed tables, views, triggers, and stored procedures to handle booking, cancellations, billing, and reporting. Ensured data integrity and implemented real-world logic using T-SQL.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Github Repositary](https://www.mdpi.com/1424-8220/22/11/4240)
+### Telecom Customer Churn Analysis – Python
+[Github Repositary](https://github.com/FrancisAungThu/TelecomChurnAnalysis/blob/main/README.md)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+•	Identified key churn drivers in telecom data: complaints were the top predictor, with 99% of churned users on low-spend, pay-as-you-go plans. Younger customers (20–40) churned early, while long-tenured, high-paying contract users showed strong loyalty. Network quality had no impact, revealing targeted retention opportunities
 
+### E-commerce Sales Analysis – Python + Power BI
+[Github Repositary](https://github.com/FrancisAungThu/DataAnalysisProjects/blob/main/RetailSalesAnalysis/Readme.MD)
+
+• Uncover actionable insights from sales performance data through Exploratory Data Analysis (EDA), and translate those findings into a dynamic Power BI dashboard tailored for executive decision-making.
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Temporary Case Administrator - Workforce Planning (_May 2024 - Aug 2024_)**
+AQA | Manchester, UK
+
+•	Analysed fault patterns and correctly set up malfunction cases in line with policy guidelines, assigned breach points based on severity and impact 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios

@@ -35,7 +35,7 @@
 
 ●	Led the end-to-end development of an automated data pipeline and Power BI dashboard to monitor key performance indicators, including Monthly Active Users (MAU), Daily Active Users (DAU) and monthly sign-up rates  
 
-●	Implemented ETL workflows using SQL and Python to ingest, transform, and model data from diverse sources, enabling daily dashboard updates and interactive visualizations
+●	Implemented ETL workflows using SQL and Python to ingest, transform, and model data from diverse sources, enabling daily dashboard updates and interactive visualization
 
 ●	Collaborated with marketing and business strategy teams to align dashboard KPIs with strategic goals, driving a 40% increase in DAU and MAU, and significantly boosting monthly signup rates.
 
